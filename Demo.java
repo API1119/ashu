@@ -3,5 +3,7 @@ public class Demo{
            {
              System.out.println("demo");
             return;
+       hello hi
+       bye bye
 }
 }
